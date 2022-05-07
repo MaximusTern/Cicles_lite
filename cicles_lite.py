@@ -9,10 +9,10 @@ while id <6:
 
 k = 0
 for i in range(10):
-    num = int(input('Введи число: '))
+    num = int(input())
     if num == 5:
         k += 1
-print(k)3
+print(k)
 
 
 #Lite 3
